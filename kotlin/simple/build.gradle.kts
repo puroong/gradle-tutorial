@@ -5,6 +5,9 @@
  * Learn how to create Gradle builds at https://guides.gradle.org/creating-new-gradle-builds
  */
 
+description = "gradle tutorial with kotlin dsl"
+version = "0.0.1"
+
 plugins {
     id("base")
 }
